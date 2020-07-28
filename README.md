@@ -1,6 +1,6 @@
 # Wall-Climbing-Robot
 Srishti 2020
-!(https://github.com/marsiitr/Wall-Climbing-Robot/blob/d9cf91eaf8ccc49402a9ae0620c4b37e7601c4ec/images%20and%20videos/IMG_20200728_111529.jpg)
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/d9cf91eaf8ccc49402a9ae0620c4b37e7601c4ec/images%20and%20videos/IMG_20200728_111529.jpg)
 
 ## Abstract
 It is a manually controlled bot. It can be moved in a 2D space on the wall. It is a small bot which can stick on the wall for any amount of time. 
