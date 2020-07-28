@@ -59,3 +59,4 @@ We don't have any small bot which can climb the wall. It can help us in many app
 ## References
 https://grabcad.com/library?page=1&time=all_time&sort=recent&query=rubber%20caster%20wheel
 https://www.google.com
+https://www.rcgroups.com/forums/showthread.php?413706-Calculating-thrust
