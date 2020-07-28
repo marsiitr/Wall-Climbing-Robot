@@ -1,6 +1,6 @@
 # Wall-Climbing-Robot
 Srishti 2020
-![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/4325c26f01973e56261c7633f337735649293324/Images%20and%20Videos/CAD%20design.jpg)
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/4325c26f01973e56261c7633f337735649293324/Images%20and%20Videos/Images/CAD%20design.jpg)
 
 ## Abstract
 It is a manually controlled bot. It can be moved in a 2D space on the wall. It is a small bot which can stick on the wall for any amount of time. 
@@ -18,7 +18,7 @@ We don't have any small bot which can climb the wall. It can help us in many app
 
 ## Electronic Aspect
 1. All the three motors are controlling by the arduino with the help of a motor driver.
-![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/3cee26df168a33de004052a63950638823c5c02f/Images%20and%20Videos/Arduino%20and%20motor%20driver.jpg)
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/3cee26df168a33de004052a63950638823c5c02f/Images%20and%20Videos/Images/Arduino%20and%20motor%20driver.jpg)
 2. It drives the DC motors with the PWM value signal of 200.
 3. When the switch is in Up state, the DC motors rotate in clockwise and bot move in the forward direction.
 4. When the switch is in down state, the DC motors rotate in anti clockwise and bot move in the backward direction.
@@ -47,9 +47,9 @@ We don't have any small bot which can climb the wall. It can help us in many app
 3. By improving electronic system and mechanical strength, it can reach greater heights.
 
 ## Team Members
-1. Monty
+1. Monty (https://github.com/Monty-00)
 2. Yash Vardhan Rai
-3. Bhavna
+3. Bhavna (https://github.com/Bhavna525)
 4. Rohit Atal
 
 ## Mentor
