@@ -18,7 +18,7 @@ We don't have any small bot which can climb the wall. It can help us in many app
 
 ## Electronic Aspect
 1. All the three motors are controlling by the arduino with the help of a motor driver.
-![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/master/images%20and%20videos/maxresdefault.jpg)
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/5817e4bf6d1f57e17e3ba9b03fc3515b9ec7c421/images%20and%20videos/maxresdefault.jpg)
 2. It drives the DC motors with the PWM value signal of 200.
 3. When the switch is in Up state, the DC motors rotate in clockwise and bot move in the forward direction.
 4. When the switch is in down state, the DC motors rotate in anti clockwise and bot move in the backward direction.
