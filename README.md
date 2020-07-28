@@ -23,7 +23,6 @@ We don't have any bot which can climb the wall yet. It can help us in many appli
 ## Cost Structure
 | Materials  | Cost(INR) |
 | ------------- | ------------- |
-
 | caster wheel  | 30 |
 | Arduino UNO  |500 |
 | 1 Motor Driver  | 250 |
