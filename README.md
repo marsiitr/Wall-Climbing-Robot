@@ -48,7 +48,7 @@ We don't have any small bot which can climb the wall. It can help us in many app
 
 ## Team Members
 1. Monty (https://github.com/Monty-00)
-2. Yash Vardhan Rai
+2. Yash Vardhan Rai (https://github.com/yashguru10)
 3. Bhavna (https://github.com/Bhavna525)
 4. Rohit Atal
 
