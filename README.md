@@ -4,7 +4,7 @@ Srishti 2020
 It is a manually controlled bot. It can be moved in a 2D space on the wall. It is a small bot which can stick on the wall for any amount of time. 
 
 ## Motivation.
-We don't have any bot which can climb the wall yet. It can help us in many application.
+We don't have any small bot which can climb the wall. It can help us in many application.
 
 ## Mechanical Aspect
 1. The whole syster should be lighter and stong. So we have used 3D printing.
@@ -53,3 +53,5 @@ We don't have any bot which can climb the wall yet. It can help us in many appli
 2. Samarth Koolwal
 
 ## References
+https://grabcad.com/library?page=1&time=all_time&sort=recent&query=rubber%20caster%20wheel
+https://www.google.com
