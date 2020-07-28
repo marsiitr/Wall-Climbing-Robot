@@ -1,9 +1,10 @@
 # Wall-Climbing-Robot
 Srishti 2020
 ## Abstract
-It is a manually controlled bot. It can be moved in a 2D space on the wall. It is a small bot which can stay on the wall for any amount of time. 
+It is a manually controlled bot. It can be moved in a 2D space on the wall. It is a small bot which can stick on the wall for any amount of time. 
 
-## Motivation
+## Motivation.
+We don't have any bot which can climb the wall yet. It can help us in many application.
 
 ## Mechanical Aspect
 1. The whole syster should be lighter and stong. So we have used 3D printing.
@@ -22,22 +23,34 @@ It is a manually controlled bot. It can be moved in a 2D space on the wall. It i
 ## Cost Structure
 | Materials  | Cost(INR) |
 | ------------- | ------------- |
-| 4 Motors | 700 |
-| Mid body | 200  |
+
 | caster wheel  | 30 |
 | Arduino UNO  |500 |
 | 1 Motor Driver  | 250 |
-| Battery and other material | 250  |
-| Total | 2250 |
+| other material | 250  |
+| Total | 1030 |
 
 ## Application
+1. If mounted with camera, it can spy enemies.
+2. With proper sensor, it can detect small cracks on the wall, which is not visible through eyes.
 
 ## Limitation
+1. It is connected with wire,which restricts its motion.
+2. It can not go high from a particual height because of pressure difference.
 
 ## Future Improvements
+1. It can be made remote controlled.
+2. It can be made wireless with help of devices like Bluetooth.
+3. By improving electronic system and mechanical strength, it can reach greater heights.
 
 ## Team Members
+1. Monty
+2. Yash Vardhan Rai
+3. Bhavna
+4. Rohit Atal
 
 ## Mentor
+1. Ujjwal Baranwal
+2. Samarth Koolwal
 
 ## References
