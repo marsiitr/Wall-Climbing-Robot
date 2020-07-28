@@ -53,7 +53,7 @@ We don't have any small bot which can climb the wall. It can help us in many app
 4. Rohit Atal
 
 ## Mentor
-1. Ujjwal Baranwal
+1. Ujjwal Baranwal (https://github.com/ujjwal-baranwal)
 2. Samarth Koolwal
 
 ## References
