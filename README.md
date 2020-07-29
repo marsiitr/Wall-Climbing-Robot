@@ -38,8 +38,8 @@ We don't have any small bot which can climb the wall. It can help us in many app
 2. With proper sensor, it can detect small cracks on the wall, which is not visible through eyes.
 
 ## Limitation
-1. It is connected with wire,which restricts its motion.
-2. It can not go high from a particual height because of pressure difference.
+1. It is connected with wire , which restricts its motion.
+2. It can not go high from a particular height because of pressure difference.
 
 ## Future Improvements
 1. It can be made remote controlled.
