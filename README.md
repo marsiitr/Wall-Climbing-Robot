@@ -50,14 +50,14 @@ We don't have any small bot which can climb the wall. It can help us in many app
 3. By improving electronic system and mechanical strength, it can reach greater heights.
 
 ## Team Members
-1. [Monty](https://github.com/Monty-00)
-2. [Yash Vardhan Rai](https://github.com/yashguru10)
-3. [Bhavna](https://github.com/Bhavna525)
-4. Rohit Atal
+1. [Bhavna](https://github.com/Bhavna525)
+2. [Monty](https://github.com/Monty-00)
+3. Rohit Atal
+4. [Yash Vardhan Rai](https://github.com/yashguru10)
 
 ## Mentor
-1. [Ujjwal Baranwal](https://github.com/ujjwal-baranwal)
-2. Samarth Koolwal
+1. Samarth Koolwal
+2. [Ujjwal Baranwal](https://github.com/ujjwal-baranwal)
 
 ## References
 https://grabcad.com/library?page=1&time=all_time&sort=recent&query=rubber%20caster%20wheel
