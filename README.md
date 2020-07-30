@@ -24,6 +24,9 @@ We don't have any small bot which can climb the wall. It can help us in many app
 4. When the switch is in down state, the DC motors rotate in anti clockwise and bot move in the backward direction.
 5. It can also change its direction to right and left.
 
+## Work Flow
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/7cca7e3a2f63b91db35dfd7517cb78079a9fa5c0/Images%20and%20Videos/Images/Work%20flow.png)
+
 ## Cost Structure
 | Materials  | Cost(INR) |
 | ------------- | ------------- |
