@@ -50,13 +50,13 @@ We don't have any small bot which can climb the wall. It can help us in many app
 3. By improving electronic system and mechanical strength, it can reach greater heights.
 
 ## Team Members
-1. Monty(https://github.com/Monty-00)
-2. Yash Vardhan Rai(https://github.com/yashguru10)
-3. Bhavna(https://github.com/Bhavna525)
+1. [Monty](https://github.com/Monty-00)
+2. [Yash Vardhan Rai](https://github.com/yashguru10)
+3. [Bhavna](https://github.com/Bhavna525)
 4. Rohit Atal
 
 ## Mentor
-1. Ujjwal Baranwal(https://github.com/ujjwal-baranwal)
+1. [Ujjwal Baranwal](https://github.com/ujjwal-baranwal)
 2. Samarth Koolwal
 
 ## References
