@@ -12,6 +12,7 @@ We don't have any small bot which can climb the wall. It can help us in many app
 ## Mechanical Aspect
 1. The whole syster should be lighter and stong. So we have used 3D printing.
 2. For giving the thrust in horizonatal direction we have used a BLDC motor, So that the friction force increases and the body stick with the wall.
+![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/80542ecedfcc531dddfdac09be7de8b2ccad7546/Images%20and%20Videos/Images/Cad%20design.png)
 3. The propellor is rotate in reverse direction so it can give the required force on the wall.
 4. We have used two small DC motors which give the 2D motion on the wall.
 5. We have used a caster wheel on the front of the bot for easy rotation of the bot.
